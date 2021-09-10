@@ -1,0 +1,7 @@
+.wrapper {
+    max-inline-size: 1158px;
+    padding-inline-end: 16px;
+    padding-inline-start: 16px;
+    margin: auto;
+    /* margin auto lo centra porque es un elemento que tiene un tamaño y es un un bloque */
+}
