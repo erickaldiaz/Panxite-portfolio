@@ -27,6 +27,28 @@
     padding-block-end: 24px;
 }
 
+.first-coment {
+    font-family: Oxygen;
+    font-style: normal;
+    font-size: 34px;
+    line-height: 55px;
+    text-align: center;
+}
+.second-coment {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 39px;
+    text-align: center;
+}
+.arrow-down {
+    position: static;
+    width: 80.52px;
+    height: 80.52px;
+    left: 642.74px;
+    top: 398px;
+}
 @media screen and (min-width: 768px) {
     .hero {
         border: 1px solid;
